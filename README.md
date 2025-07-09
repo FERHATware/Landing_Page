@@ -30,9 +30,17 @@ A modern and minimal **landing page template** built using only **HTML5** and **
 
 ## 📌 Screenshots
 
-| Landing Section | Services Section | Portfilo Section | About Section | Contact Section |
-|-----------------|------------------|-----------------|------------------|
-| ![Landing_Page](screenshots/1.png) | ![Landing_Page](screenshots/2.png) | ![Landing_Page](screenshots/3.png) | ![Landing_Page](screenshots/4.png) | ![Landing_Page](screenshots/5.png) |
+<h3>📸 Screenshots</h3>
+
+<table>
+  <tr>
+    <td align="center"><strong>Landing</strong><br><img src="screenshots/1.png" width="150"></td>
+    <td align="center"><strong>Services</strong><br><img src="screenshots/2.png" width="150"></td>
+    <td align="center"><strong>Portfolio</strong><br><img src="screenshots/3.png" width="150"></td>
+    <td align="center"><strong>About</strong><br><img src="screenshots/4.png" width="150"></td>
+    <td align="center"><strong>Contact</strong><br><img src="screenshots/5.png" width="150"></td>
+  </tr>
+</table>
 
 ---
 
