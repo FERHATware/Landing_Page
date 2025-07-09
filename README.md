@@ -30,8 +30,8 @@ A modern and minimal **landing page template** built using only **HTML5** and **
 
 ## 📌 Screenshots
 
-| Landing Section | Services Section |
-|-----------------|------------------|
+| Landing Section | Services Section | Portfilo Section | Services Section |
+|-----------------|------------------|-----------------|------------------|
 | ![Landing_Page](screenshots/1.png) | ![Landing_Page](screenshots/2.png) | ![Landing_Page](screenshots/3.png) | ![Landing_Page](screenshots/4.png) | ![Landing_Page](screenshots/5.png) |
 
 ---
