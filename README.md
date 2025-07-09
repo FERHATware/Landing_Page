@@ -32,7 +32,7 @@ A modern and minimal **landing page template** built using only **HTML5** and **
 
 | Landing Section | Services Section |
 |-----------------|------------------|
-| ![Landing](1.jpg) | ![Services](images/screenshot2.jpg) |
+| ![Landing](screenshots/1.jpg) | ![Services](images/screenshot2.jpg) |
 
 ---
 
