@@ -4,8 +4,7 @@ A modern and minimal **landing page template** built using only **HTML5** and **
 
 ## 📸 Live Demo
 
-[📦 GitHub Repo]([https://github.com/your-username/leon-template](https://lnkd.in/dtrzgwFx))
-
+👉 [Source Code](https://github.com/FERHATware/Landing_Page)
 ---
 
 ## 🚀 Features
