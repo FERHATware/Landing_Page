@@ -2,7 +2,6 @@
 
 A modern and minimal **landing page template** built using only **HTML5** and **CSS3**. Ideal for creative agencies, freelancers, and personal branding websites.
 
-## 📸 Live Demo
 
 👉 [Source Code](https://github.com/FERHATware/Landing_Page)
 ---
