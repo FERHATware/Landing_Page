@@ -30,7 +30,6 @@ A modern and minimal **landing page template** built using only **HTML5** and **
 
 ## 📌 Screenshots
 
-<h3>📸 Screenshots</h3>
 
 <table>
   <tr>
